@@ -1,0 +1,44 @@
+body {
+  background: rgb(231, 221, 221);
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 400px;
+}
+li {
+  color: #d89134;
+}
+.my-element {
+  color: #ff0202;
+}
+.contact-container {
+  box-sizing: border-box;
+  background: #c9b7a6;
+  width: 400px;
+  padding: 40px;
+}
+.soft-skills-container {
+  box-sizing: border-box;
+  background: #2155a1;
+  width: 400px;
+  padding: 40;
+  margin-top: 40px;
+}
+.tech-skills-container {
+  box-sizing: border-box;
+  background: #19d38c;
+  width: 400px;
+  margin-top: 40px;
+}
+.tech-skills-tittle {
+  font-size: 30px;
+  font-weight: 200;
+}
+.soft-skills-tittle {
+  font-size: 30px;
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
